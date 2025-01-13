@@ -1992,9 +1992,9 @@ ws@^8.18.0:
   integrity sha512-8VbfWfHLbbwu3+N6OKsOMpBdT4kXPDDB9cJk2bJ6mh9ucxdlnNvH1e+roYkKmN9Nxw2yjz7VzeO9oOz2zJ04Pw==
 
 xstro-utils@^1.0.4:
-  version "1.0.4"
-  resolved "https://registry.yarnpkg.com/xstro-utils/-/xstro-utils-1.0.4.tgz#27eba6d9cdcee66ad7354ba3ab06948997957362"
-  integrity sha512-vpCMj025upAxxZf/RKZVKRDyHdakpxfVeKuyOsVQjMe2degmH6r/+Rw3372QINkFVoihWa3Z+V+Ur5QUxYkY8g==
+  version "1.0.5"
+  resolved "https://registry.yarnpkg.com/xstro-utils/-/xstro-utils-1.0.5.tgz#cab009ec243c337d944b58983e36b615bd9921ad"
+  integrity sha512-CTaAhI6E8aiEgMziM+46IU0YonW/VDQMT9xu3ubsnfTmrmZhO9tTf6oYjd3Qsw3OLUXsifeEyp3W7UJ3I+xP+g==
   dependencies:
     axios "^1.7.9"
     file-type "^19.6.0"
